@@ -1,0 +1,9 @@
+PyTumblr==0.0.5
+PyYAML==3.11
+argcomplete==0.8.0
+argh==0.24.1
+argparse==1.2.1
+httplib2==0.9
+oauth2==1.5.211
+tumblrtokens==0.3
+wsgiref==0.1.2
